@@ -4,8 +4,8 @@
   "type": "parserhook",
   "author": ["도다"],
   "version": "1.0",
-  "url": "https://wiki.ddark.kr",
-  "description": "문서 스타일을 도다위키에 알맞게 변형합니다",
+  "url": "https://github.com/dodawiki/DodaNumberHeadings",
+  "description": "각 문단 앞에 번호를 표시해줍니다. 목차가 표시되어야 동작합니다.",
   "requires": {
     "MediaWiki": ">= 1.38.1"
   },
